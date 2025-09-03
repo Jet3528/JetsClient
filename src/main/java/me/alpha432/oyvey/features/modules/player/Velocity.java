@@ -8,7 +8,7 @@ import net.minecraft.network.packet.s2c.play.ExplosionS2CPacket;
 
 public class Velocity extends Module {
     public Velocity() {
-        super("Velocity", "Removes velocity from explosions and entities", Category.PLAYER, true, false, false);
+        super("Velocity", "Velocity has been COMPLETLY patched by the prediction anticheat on hypixel so bear while we fix this", Category.PLAYER, true, false, false);
     }
 
     @Subscribe
